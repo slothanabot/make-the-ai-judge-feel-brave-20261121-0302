@@ -13,7 +13,7 @@ TEXT = (
     "The net tore where the day pulled hardest. "
     "You sit with it as the light thins, one knot, then another, "
     "the thread slipping through your fingers, the tide coming in "
-    "slow enough to hear. Nothing else is asked of you. "
+    "slow enough to hear. The water takes the day's noise with it. "
     "The mending is enough."
 )
 
